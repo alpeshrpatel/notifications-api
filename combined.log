@@ -1,0 +1,35 @@
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 197ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 179ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 157ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 102ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 157ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 99ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 148ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 100ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 120ms - /api/notifications/sms - PostmanRuntime/7.11.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"message":"Info statement","level":"info"}
+{"level":"info","message":"::1 - \u001b[33m404\u001b[39m - POST - 1ms - /notifications/api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 19ms - /api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 17ms - /api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 17ms - /api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 41ms - /api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 41ms - /api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 43ms - /api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 45ms - /api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"message":"Info statement","level":"info"}
+{"message":"Info statement","level":"info"}
+{"message":"Info statement","level":"info"}
+{"level":"info","message":"::1 - \u001b[32m200\u001b[39m - POST - 41ms - /api/notifications/email - PostmanRuntime/7.19.0","meta":{}}
+{"message":"Info statement","level":"info"}
+{"message":"Info statement","level":"info"}
+{"message":"Info statement","level":"info"}
+{"message":"Info statement","level":"info"}
+{"message":"Info statement","level":"info"}
